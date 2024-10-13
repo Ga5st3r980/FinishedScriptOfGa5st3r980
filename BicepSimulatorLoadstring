@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ga5st3r980/Bicep-Simulator/refs/heads/main/Bicep_Simulator.lua"))()
